@@ -15,3 +15,6 @@ if (usuario === "admin" && contraseña === 1234){
 }else{
     alert("Acceso denegado")
 }
+//¿Qué operador lógico usarías para verificar que se cumplan
+//ambas condiciones? pues use extrictamente igual, y el operador "&&" 
+//para dejar en claro que se tienen que cumplir las dos
